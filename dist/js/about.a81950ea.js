@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(e,n,a){"use strict";a.r(n);var c=a("7a23"),t={class:"about"},r=Object(c["g"])("h1",null,"Pagina de acerca de en VueJS",-1),u=[r];function o(e,n){return Object(c["r"])(),Object(c["f"])("div",t,u)}var b=a("6b0d"),d=a.n(b);const s={},i=d()(s,[["render",o]]);n["default"]=i}}]);
-//# sourceMappingURL=about.a81950ea.js.map
